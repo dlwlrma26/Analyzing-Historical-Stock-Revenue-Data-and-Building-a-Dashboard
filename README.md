@@ -21,7 +21,7 @@ Python 3
 
 Jupyter Notebook
 
-Libraries:
+# Libraries:
 
 yfinance
 
@@ -33,11 +33,7 @@ beautifulsoup4 (bs4)
 
 plotly
 
-warnings
-
-nbformat (mentioned in pip installs, likely for notebook handling)
-
-Data Sources
+# Data Sources
 
 Stock Data: Yahoo Finance (accessed via yfinance library)
 
@@ -45,9 +41,3 @@ Tesla Revenue Data: https://cf-courses-data.s3.us.cloud-object-storage.appdomain
 
 GameStop Revenue Data: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html (scraped)
 
-
-Run the cells sequentially to execute the data extraction, cleaning, and visualization steps.
-
-The final cells will display the interactive Plotly graphs for Tesla and GameStop.
-
-Authors
